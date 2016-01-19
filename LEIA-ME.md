@@ -107,4 +107,8 @@ Nessa pasta estão a Proposta e o Relatório Parcial, entregues na disciplina Pr
 
 ## Leia-me
 
-Esse arquivo de Leia-me foi desenvolvido com a ferramenta Markdown, muito utilizada nos repositórios do Github.
+Esse arquivo de Leia-me foi desenvolvido com a ferramenta Markdown, muito utilizada nos repositórios do Github. O PDF foi gerado através do link:
+
+```
+https://gitprint.com/gabrielboliveira/leiame-peacon/blob/master/LEIA-ME.md
+``` 
